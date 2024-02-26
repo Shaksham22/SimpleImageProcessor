@@ -1,2 +1,4 @@
-# SimpleImageProcessor
-This is a simple image processor that can combine an image with a green screen background.
+# Green Screen
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/shaksham-shubham/pen/gOaGdYM](https://codepen.io/shaksham-shubham/pen/gOaGdYM).
+

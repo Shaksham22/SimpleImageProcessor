@@ -1,0 +1,67 @@
+h1{
+  font-size:60px;
+}
+body{
+  align:center;
+  background:linear-gradient(
+      to bottom,
+      rgba(255, 255, 0, 0.6),
+      rgba(255, 255, 255, 0)
+    ),url(https://cdn.pixabay.com/photo/2019/05/23/12/57/clipper-4223871_1280.jpg);
+  
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 140%;
+
+}
+canvas{
+  border:solid;
+  width:650px;
+  height:400px;
+  background: rgba(255,255,255,0.4);
+}
+.class1{
+  display:grid;
+  grid-template-columns: auto auto;
+  opacity:1;
+}
+.class1a{
+  display:grid;
+  grid-template-columns: auto;
+  opacity:1;
+}  
+
+.class2{
+ display:grid;
+ grid-template-columns: auto;
+
+}
+.class3{
+ display:grid;
+ grid-template-columns: auto;
+ font-size: 30px;
+ padding-left:51px; 
+ padding-top:20px;
+ padding-right:35px;
+ padding-bottom:20px;
+ 
+}
+
+button
+{font-size: 22px;
+ width: 300px;
+}
+
+.try1{
+  padding-left:79px; 
+  padding-top:20px; 
+  background-color:white;
+  opacity:0.5;
+  background-origin: content-box, content-box;
+  
+}
+
+.diva{
+  display:grid;grid-template-columns: auto auto auto;padding:20px;
+}
+
